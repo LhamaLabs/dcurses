@@ -1,3 +1,3 @@
 # DCurses
 
-An NCurses ocaml wrapper for building console applications
+**D**esert **Curses** is a NCurses wrapper for building console applications in OCaml.
