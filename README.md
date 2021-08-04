@@ -6,7 +6,5 @@
   </a>
 </p>
 
-![]()
-
-**D**esert **Curses** is a NCurses wrapper for building console applications in OCaml.
+**D**esert **Curses** is a NCurses wrapper for building console applications in OCaml. You can use it to build console based applications interfaces.
 
