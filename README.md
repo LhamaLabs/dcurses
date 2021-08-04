@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.freepik.com/vectors/background">
-    <img alt="created by freepik - www.freepik.com" src="https://github.com/LhamaLabs/imagens/blob/master/dcurse.png">
+    <img alt="created by freepik - www.freepik.com" target="_blank" rel="noopener noreferrer" src="https://github.com/LhamaLabs/imagens/blob/master/dcurse.png">
   </a>
 </p>
 
